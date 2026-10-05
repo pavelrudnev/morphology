@@ -1,0 +1,261 @@
+[
+  {
+    "objectID": "index.html#previously",
+    "href": "index.html#previously",
+    "title": "Introduction to the science of language",
+    "section": "Previously",
+    "text": "Previously\nTransmitting and recording language\n\nphonetics\nphonology\nwriting\nlanguage technology"
+  },
+  {
+    "objectID": "index.html#today",
+    "href": "index.html#today",
+    "title": "Introduction to the science of language",
+    "section": "Today",
+    "text": "Today\n\nknowledge of grammar\nwords and their composition\n\nmorphology\nstudent presentations"
+  },
+  {
+    "objectID": "index.html#grammar-as-science",
+    "href": "index.html#grammar-as-science",
+    "title": "Introduction to the science of language",
+    "section": "Grammar as science",
+    "text": "Grammar as science\nScientific method\n\nScience seeks to understand how the world works.\nTo attain understanding means to discover basic laws and principles.\nScientific laws and principles are subject to experimental testing."
+  },
+  {
+    "objectID": "index.html#why-study-grammar",
+    "href": "index.html#why-study-grammar",
+    "title": "Introduction to the science of language",
+    "section": "Why study grammar?",
+    "text": "Why study grammar?\nGrammar is a bridge between sound and meaning\n\nsemantics — grammar (morphology + syntax) — phonetics and phonology\n\nNatural-language objects are hierarchical structures\n\nsyllables (onset, nucleus, coda)\nwords\nphrases\nsentences"
+  },
+  {
+    "objectID": "index.html#what-does-grammar-study",
+    "href": "index.html#what-does-grammar-study",
+    "title": "Introduction to the science of language",
+    "section": "What does grammar study?",
+    "text": "What does grammar study?\nInformally defined, grammar studies combinatorial rules.\n\nKey fact: native speakers/signers perceive certain strings as acceptable and other strings as unacceptable."
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Introduction to the science of language",
+    "section": "",
+    "text": "Q: Why bother studying the rules of grammar? Any native speaker knows them anyway!\nA: Speakers know them tacitly and implicitly but cannot formulate them explicitly. A more accurate description would be that speaker possesses the rules of grammar, just as they possess the visual system (Ludlow 2011), in contrast to the rules of chess, artificial languages etc."
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "Introduction to the science of language",
+    "section": "",
+    "text": "Q: But do we need some special language rules? Perhaps people just memorise the strings they encounter.\nA: The number of acceptable expressions is potentially infinite, far greater than can be memorised. Besides, people can judge expressions (words, phrases and sentences) as acceptable or unacceptable that they have never encountered before."
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "Introduction to the science of language",
+    "section": "",
+    "text": "Q: Speakers judge denationalisation as acceptable because they understand its meaning.\nA: Speakers can judge semantically odd strings as acceptable and vice versa.\n\n’Twas brillig and the slithey toves did gyre and gimble in the wabe.\n*Me not understanding you.\nColourless green ideas sleep furiously.\n*The child seems sleeping."
+  },
+  {
+    "objectID": "index.html#what-does-any-of-this-have-to-do-with-language",
+    "href": "index.html#what-does-any-of-this-have-to-do-with-language",
+    "title": "Introduction to the science of language",
+    "section": "What does any of this have to do with language?",
+    "text": "What does any of this have to do with language?\n\nWhat does it mean to understand grammar?\nWhat laws and principles of grammar might there be?\nHow can those laws and principles of grammar be tested experimentally?"
+  },
+  {
+    "objectID": "index.html#examples",
+    "href": "index.html#examples",
+    "title": "Introduction to the science of language",
+    "section": "Examples",
+    "text": "Examples\n\ndenationalisation: acceptable\nnationalisationde: unacceptable\n\nNB: we’ll be using the symbol ‘*’ in front of an expression to mean ‘meh’ from now on\n\n*nationalisationde\nas well as the other 118 remaining combinations of de-, nation, -al, -ise- and -ation"
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "Introduction to the science of language",
+    "section": "",
+    "text": "Q: What if a speaker errs in their judgement? After all, there are such things as grammaticality illusions. * More people have been to Russia than I have.\nA: Other cognitive systems, e.g. the visual system, may err but this doesn’t mean people should stop studying them.\n\n\n\n\n\nMüller-Lyer illusion"
+  },
+  {
+    "objectID": "index.html#section-4",
+    "href": "index.html#section-4",
+    "title": "Introduction to the science of language",
+    "section": "",
+    "text": "We’ll start our exploration of the grammatical rules and regularities by considering what words are."
+  },
+  {
+    "objectID": "index.html#definitions",
+    "href": "index.html#definitions",
+    "title": "Introduction to the science of language",
+    "section": "Definitions",
+    "text": "Definitions\nMorphology is the study of words and their internal constitution.\nBut what’s a word? No precise definition!"
+  },
+  {
+    "objectID": "index.html#the-grey-area",
+    "href": "index.html#the-grey-area",
+    "title": "Introduction to the science of language",
+    "section": "The grey area",
+    "text": "The grey area\nBertram’s father-in-law’s just made him a cuppa tea\n\nis father-in-law’s one word, or are there more?\nis cuppa one word or are these actually two words (cup and of)?\nwhat about Bertram’s?\n\n\n\n\n\n\n\n\n\nLudlow, Peter. 2011. The Philosophy of Generative Linguistics. Oxford University Press."
+  },
+  {
+    "objectID": "index.html#what-is-a-word",
+    "href": "index.html#what-is-a-word",
+    "title": "Introduction to the science of language",
+    "section": "What is a word?",
+    "text": "What is a word?\nBut we can identify a cluster of properties:\n\ndiscreteness\n\ne.g., words are separated by spaces or other conventions in other writing systems\n\none main stress per word\nsingle idea/concept\nautonomy\n\nLots of fuzzy, grey area here, though."
+  },
+  {
+    "objectID": "index.html#the-grey-area-discreteness",
+    "href": "index.html#the-grey-area-discreteness",
+    "title": "Introduction to the science of language",
+    "section": "The grey area: discreteness",
+    "text": "The grey area: discreteness\nBertram’s father-in-law’s just made him a cuppa tea\n\nis father-in-law’s one word, or are there more?\nis cuppa one word or are these actually two words (cup and of)?\nwhat about Bertram’s?"
+  },
+  {
+    "objectID": "index.html#morphemes",
+    "href": "index.html#morphemes",
+    "title": "Introduction to the science of language",
+    "section": "Morphemes",
+    "text": "Morphemes\nMore definitions:\n\nWords can be split up into smaller units.\nA morpheme is the smallest meaningful linguistic unit.\n\nCan you think of counterexamples?"
+  },
+  {
+    "objectID": "index.html#meaningful-units",
+    "href": "index.html#meaningful-units",
+    "title": "Introduction to the science of language",
+    "section": "Meaningful units?",
+    "text": "Meaningful units?\nWe can represent them as sound-meaning pairings:\n\n\n\n\nImage of dog generated by DeepSeek\n\n\n\n\nHow about -ify, or -er?"
+  },
+  {
+    "objectID": "index.html#words-lexemes-morphemes-and-features",
+    "href": "index.html#words-lexemes-morphemes-and-features",
+    "title": "Introduction to the science of language",
+    "section": "Words, lexemes, morphemes and features",
+    "text": "Words, lexemes, morphemes and features\nMorpheme\n\nsmallest meaning-carrying unit\n\nLexeme\n\nsmallest free-standing meaning-carrying unit\n\nalso free morpheme\n\n\nAffix\n\nmorpheme that is not free\n\nalso bound morpheme\n\n\nWord\n\nmeaning-carrying unit"
+  },
+  {
+    "objectID": "index.html#roots-and-affixes",
+    "href": "index.html#roots-and-affixes",
+    "title": "Introduction to the science of language",
+    "section": "Roots and affixes",
+    "text": "Roots and affixes\n\nin English, roots are free morphemes\n\ntake denationalisation we have already examined: nation is its root, and it is a free morpheme that can be used in isolation\n\nnot necessarily so in other languages"
+  },
+  {
+    "objectID": "index.html#examples-1",
+    "href": "index.html#examples-1",
+    "title": "Introduction to the science of language",
+    "section": "Examples",
+    "text": "Examples\n\ndoor\nindependently"
+  },
+  {
+    "objectID": "index.html#morpheme-lexeme-or-word",
+    "href": "index.html#morpheme-lexeme-or-word",
+    "title": "Introduction to the science of language",
+    "section": "Morpheme, lexeme or word?",
+    "text": "Morpheme, lexeme or word?\n\ndoor = morpheme, lexeme and word\n\nnot mutually exclusive\n\nindependently = complex word\n\ndepend- = lexeme (and a morpheme, obvs)\nin-, -ent, -ly = morphemes"
+  },
+  {
+    "objectID": "index.html#what-does-a-native-speaker-of-a-language-need-to-know",
+    "href": "index.html#what-does-a-native-speaker-of-a-language-need-to-know",
+    "title": "Introduction to the science of language",
+    "section": "What does a native speaker of a language need to know?",
+    "text": "What does a native speaker of a language need to know?\nSticking with denationalisation, the speaker needs to know\n\neach of the five morphemes: de-, nation, -al, -ise, -ation\nwhat kind of morpheme each of them is\n\nIs it free?\nIf it is bound, is it a prefix, a suffix, or something else entirely?\n\nwhat the morpheme attaches to\n\nnational + -ise\n*speak + -ise\n\nthat this attachment relation is a local one\nwhat is the result of attaching a morpheme to another\n\nTo do that, more observation and generalisation is required."
+  },
+  {
+    "objectID": "index.html#positional-types-of-affixes-prefixes-suffixes-and-infixes-and-circumfixes",
+    "href": "index.html#positional-types-of-affixes-prefixes-suffixes-and-infixes-and-circumfixes",
+    "title": "Introduction to the science of language",
+    "section": "Positional types of affixes: prefixes, suffixes (and infixes, and circumfixes)",
+    "text": "Positional types of affixes: prefixes, suffixes (and infixes, and circumfixes)\n\n\n\nPrefixes\nSuffixes\n\n\n\n\nasymmetric\ntreatable\n\n\ninadequate\nsynthesise\n\n\nproactive\nleadership\n\n\n\nFrequently, more than one affix (prefix/suffix) can be added, just as in denationalisation\nTip: Think about it as a step-by-step process (1 affix per step).\n\n\n\n\n\n\n\n\nLudlow, Peter. 2011. The Philosophy of Generative Linguistics. Oxford University Press."
+  },
+  {
+    "objectID": "index.html#positional-types-of-affixes-prefixes-suffixes",
+    "href": "index.html#positional-types-of-affixes-prefixes-suffixes",
+    "title": "Introduction to the science of language",
+    "section": "Positional types of affixes: prefixes, suffixes",
+    "text": "Positional types of affixes: prefixes, suffixes\n(and infixes, and circumfixes)\n\n\n\nPrefixes\nSuffixes\n\n\n\n\nasymmetric\ntreatable\n\n\ninadequate\nsynthesise\n\n\nproactive\nleadership\n\n\n\nFrequently, more than one affix (prefix/suffix) can be added, just as in denationalisation\nTip: Think about it as a step-by-step process (1 affix per step)."
+  },
+  {
+    "objectID": "index.html#word-classes",
+    "href": "index.html#word-classes",
+    "title": "Introduction to the science of language",
+    "section": "Word classes",
+    "text": "Word classes\nWord classes (aka ‘parts of speech’) are an attempt at finding regularities in natural-language expressions.\n\ntraditional definitions familiar from school are unreliable and circular\ninstead, formal and distributional criteria are called for\n\nsuch criteria are deductive in character"
+  },
+  {
+    "objectID": "index.html#word-classes-school-definitions",
+    "href": "index.html#word-classes-school-definitions",
+    "title": "Introduction to the science of language",
+    "section": "Word classes: school definitions",
+    "text": "Word classes: school definitions\nLet’s briefly consider two:\n\nNouns denote objects.\nVerbs denote actions.\n\nWhat’s wrong with these?"
+  },
+  {
+    "objectID": "index.html#formal-criteria",
+    "href": "index.html#formal-criteria",
+    "title": "Introduction to the science of language",
+    "section": "Formal criteria",
+    "text": "Formal criteria\ninvolve unifying words into classes based on their form, i.e. how they look.\n\nverbs: -ed and its allomorphs\nnouns: singular vs. plural forms (glass – glasses; goose – geese)\nadjectives: forms of comparison (tall – taller – tallest)"
+  },
+  {
+    "objectID": "index.html#lexical-and-functional-categories",
+    "href": "index.html#lexical-and-functional-categories",
+    "title": "Introduction to the science of language",
+    "section": "Lexical and functional categories",
+    "text": "Lexical and functional categories\nin different parlance, open-class expressions vs. closed-class expressions (or notion words and function words)"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Introduction to the science of language",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\nLudlow, Peter. 2011. The Philosophy of Generative Linguistics. Oxford University Press."
+  },
+  {
+    "objectID": "index.html#open-class-expressions",
+    "href": "index.html#open-class-expressions",
+    "title": "Introduction to the science of language",
+    "section": "Open-class expressions",
+    "text": "Open-class expressions\nLexical categories possess a relatively obvious descriptive content\n\nnouns (category N) – desk, jacket, solitude, prowess\nadjectives (category A) – noticeable, yellow, spicy\nverbs (category V) – attend, run, rejoice"
+  },
+  {
+    "objectID": "index.html#closed-class-expressions",
+    "href": "index.html#closed-class-expressions",
+    "title": "Introduction to the science of language",
+    "section": "Closed-class expressions",
+    "text": "Closed-class expressions\nFunctional categories only carry grammatical meaning\n\ndeterminers/articles (category D) – the, each\nprepositions (category P) – above, in front of, under, behind\ncomplementisers (category C) – that, if, whether"
+  },
+  {
+    "objectID": "index.html#many-affixes-are-category-specific",
+    "href": "index.html#many-affixes-are-category-specific",
+    "title": "Introduction to the science of language",
+    "section": "Many affixes are category-specific",
+    "text": "Many affixes are category-specific\nIn one of two ways:\n\nthey either place restrictions on the category (part of speech) of the thing with which they combine\nor turn one category into another"
+  },
+  {
+    "objectID": "index.html#inflectional-and-derivational-morphology",
+    "href": "index.html#inflectional-and-derivational-morphology",
+    "title": "Introduction to the science of language",
+    "section": "Inflectional and derivational morphology",
+    "text": "Inflectional and derivational morphology\n\nDerivational affixes make new words out of their host.\n\nvery clear semantic/conceptual content\n\nInflectional morphology creates a version of the same word.\n\npart of speech remains the same\n\nalso true of some derivational morphology"
+  },
+  {
+    "objectID": "index.html#affixes-as-operations",
+    "href": "index.html#affixes-as-operations",
+    "title": "Introduction to the science of language",
+    "section": "Affixes as operations",
+    "text": "Affixes as operations\nReduplication\n\nIndonesian gado ‘vegetable’ → gado-gado ‘vegetables’\n\nUmlaut, ablaut, tone and stress change\n\nUmlaut: tooth–teeth, German Gott–Götter ‘god–gods’, Dutch pad–paden ‘path–paths’\nAblaut: get–got, see–saw\nStress change: REcord (noun) vs. reCORD ‘verb’"
+  },
+  {
+    "objectID": "index.html#compounds",
+    "href": "index.html#compounds",
+    "title": "Introduction to the science of language",
+    "section": "Compounds",
+    "text": "Compounds\nWords formed by combining other words:\n\n\n\n\n\n\n\n\ncompound\ncategory\nidiomatic?\n\n\n\n\nbabysit\nV\nyes\n\n\nbartend\nV\nno\n\n\npart supplier\nN\nno\n\n\nanti-missile missile\nN\nno\n\n\nkitchen towel rack\nN\nno\n\n\nwriter club address list\nN\nno\n\n\n\nWhat’s the pattern?"
+  },
+  {
+    "objectID": "index.html#right-hand-head-rule-rhhr",
+    "href": "index.html#right-hand-head-rule-rhhr",
+    "title": "Introduction to the science of language",
+    "section": "Right-Hand Head Rule (RHHR)",
+    "text": "Right-Hand Head Rule (RHHR)\nSimplifying for now, all English compounds look roughly like this:\n\n\n\n\n\n\n\n\nSee the pattern yet?\n\nThe rightmost element of a compound is the head of the compound."
+  }
+]
