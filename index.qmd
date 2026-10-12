@@ -348,4 +348,164 @@ See the pattern yet?
 
 **The rightmost element of a compound is the head of the compound.**
 
+## Affixes are category- and subcategory-specific ##
+
+Categories can have subcategories.
+
+::: {.panel-tabset}
+### Plural ###
+
+* book + -s → books
+* match + -es → matches
+* quickly + -s → \*quicklies
+
+### Past ###
+
+* walk + -ed → walked
+* watch + -ed → watched
+* read + ?? → read
+* little + -ed → \*littled
+
+:::
+
+## Back to _denationalisation_ ##
+
+de, nation, al, ise, ation
+
+. . . 
+
+What order do we combine them in, and what goes with what?
+
+. . . 
+
+Any further restrictions? 
+
+neighbourhood + -al $\rightarrow$ \*neighbourhoodal
+
+honesty + -al $\rightarrow$ \*honestial
+
+## Affixes are (sub)category-specific 
+
+Let us consider a few examples of (sub)category-specificity
+
+::: panel-tabset
+### Affix selects N to make N ###
+
+  * -(i)an: library + -an $\rightarrow$ librarian
+  * -age: orphan + -age $\rightarrow$ orphanage
+  * -ism: manner + -ism $\rightarrow$ mannerism
+
+### Affix selects N to make V ###
+
+  * -ate: origin + -ate $\rightarrow$ originate
+  * -ise: symbol + -ise $\rightarrow$ symbolise
+
+### Affix selects V to make A ###
+
+  * -ant: defy + -ant $\rightarrow$ defiant
+  * -ive: restrict + -ive $\rightarrow$ restrictive
+
+:::
+
+## Back to _denationalisation_ ##
+
+The *nation*, *-al*, *-ise* and *-ation* bits are pretty clear, giving us
+
+::: {style="text-align: center;"}
+![*nation*, *-al*, *-ise* and *-ation* when put together](nationalization.svg){ width=35% }
+:::
+
+Where does the *de-* fit in?
+
+##  ##
+
+*Denationalisation* is when you *denationalise* something
+
+  * consequently, *de-* must attach to the verb in this instance
+  
+::: {style="text-align: center;"}
+![‘denationalisation’](denationalisation.svg){ width=40% }
+:::
+
+## Structure determines meaning ##
+
+What does *unlockable* mean?
+
+::: {.incremental}
+  * something that could not be locked;
+  * something that could be unlocked.
+:::
+
+How does the same string give multiple meanings?
+
+-------------
+
+::::: columns
+::: {.column width="45%"}
+![‘something that could not be locked’](un-lockable.svg)
+:::
+
+::: {.column width="45%"}
+![‘something that could be unlocked’](unlock-able.svg)
+:::
+:::::
+
+Similar to what we established for sentences in Week 1!
+
+## Summary ##
+
+* to describe the structure of an object, we look for regularities
+  * applied to the structure of natural-language objects, this entails looking for grammatical regularities
+      * to establish the relationships between the parts of a whole, these parts must be **found** and **categorised**
+  * every natural-language speaker is capable of distinguishing between sequences of symbols/sounds that are a sentence in that language, and those that are not.
+
+# Morphological typology #
+
+## Language around the globe ##
+
+  * around 7,000 languages
+  * languages > language groups > language families
+      * **genealogical principle**\
+	  $\rightarrow$ explains some similarities between languages but not others
+  * organisation of grammatical building blocks
+      * **typological principle**\
+	  $\rightarrow$ also explains some similarities between languages but not others
+
+##  ##
+
+::: {style="text-align: center;"}
+![Languages and language families of the world](https://upload.wikimedia.org/wikipedia/commons/7/70/Languages_world_map.svg)
+:::
+
+## Genealogical principle at work ##
+
+It can explain certain things by common origin.
+
+::: {.panel-tabset}
+
+### Germanic verbs ###
+
+  * Usage of *-t-/-d-* for past tense
+      * German: *machen* ‘make’ — (ich) machte ‘I made’
+      * Dutch: *maken* ‘make’ — (ik) maakte ‘I made’
+      * …
+
+### But not the differences in conjugation ###
+
+  * German *heißen*: *ich heiße — du heißt — er heiß — wir heißen* etc.
+  * Dutch *heten*: *ik heet — jij heet — hij heet — wij heten* etc.
+  * Norwegian *hete*: *jeg/du/… heter*
+
+:::
+
+## Limits of morphological variation ##
+
+Two main parameters
+
+  * degree of allomorphy and fusion
+      * how clearly morphological information can be segmented
+  * degree of synthesis
+      * how many morphemes a run-of-the-mill word has
+
+
 ## References

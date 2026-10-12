@@ -257,5 +257,82 @@
     "title": "Introduction to the science of language",
     "section": "Right-Hand Head Rule (RHHR)",
     "text": "Right-Hand Head Rule (RHHR)\nSimplifying for now, all English compounds look roughly like this:\n\n\n\n\n\n\n\n\nSee the pattern yet?\n\nThe rightmost element of a compound is the head of the compound."
+  },
+  {
+    "objectID": "index.html#affixes-are-category--and-subcategory-specific",
+    "href": "index.html#affixes-are-category--and-subcategory-specific",
+    "title": "Introduction to the science of language",
+    "section": "Affixes are category- and subcategory-specific",
+    "text": "Affixes are category- and subcategory-specific\nCategories can have subcategories.\n\nPluralPast\n\n\n\nbook + -s → books\nmatch + -es → matches\nquickly + -s → *quicklies\n\n\n\n\nwalk + -ed → walked\nwatch + -ed → watched\nread + ?? → read\nlittle + -ed → *littled"
+  },
+  {
+    "objectID": "index.html#back-to-denationalisation",
+    "href": "index.html#back-to-denationalisation",
+    "title": "Introduction to the science of language",
+    "section": "Back to denationalisation",
+    "text": "Back to denationalisation\nde, nation, al, ise, ation\n\nWhat order do we combine them in, and what goes with what?\n\n\nAny further restrictions?\nneighbourhood + -al \\(\\rightarrow\\) *neighbourhoodal\nhonesty + -al \\(\\rightarrow\\) *honestial"
+  },
+  {
+    "objectID": "index.html#affixes-are-subcategory-specific",
+    "href": "index.html#affixes-are-subcategory-specific",
+    "title": "Introduction to the science of language",
+    "section": "Affixes are (sub)category-specific",
+    "text": "Affixes are (sub)category-specific\nLet us consider a few examples of (sub)category-specificity\n\nAffix selects N to make NAffix selects N to make VAffix selects V to make A\n\n\n\n-(i)an: library + -an \\(\\rightarrow\\) librarian\n-age: orphan + -age \\(\\rightarrow\\) orphanage\n-ism: manner + -ism \\(\\rightarrow\\) mannerism\n\n\n\n\n-ate: origin + -ate \\(\\rightarrow\\) originate\n-ise: symbol + -ise \\(\\rightarrow\\) symbolise\n\n\n\n\n-ant: defy + -ant \\(\\rightarrow\\) defiant\n-ive: restrict + -ive \\(\\rightarrow\\) restrictive"
+  },
+  {
+    "objectID": "index.html#back-to-denationalisation-1",
+    "href": "index.html#back-to-denationalisation-1",
+    "title": "Introduction to the science of language",
+    "section": "Back to denationalisation",
+    "text": "Back to denationalisation\nThe nation, -al, -ise and -ation bits are pretty clear, giving us\n\n\n\n\nnation, -al, -ise and -ation when put together\n\n\n\nWhere does the de- fit in?"
+  },
+  {
+    "objectID": "index.html#section-5",
+    "href": "index.html#section-5",
+    "title": "Introduction to the science of language",
+    "section": "",
+    "text": "Denationalisation is when you denationalise something\n\nconsequently, de- must attach to the verb in this instance\n\n\n\n\n\n‘denationalisation’"
+  },
+  {
+    "objectID": "index.html#structure-determines-meaning",
+    "href": "index.html#structure-determines-meaning",
+    "title": "Introduction to the science of language",
+    "section": "Structure determines meaning",
+    "text": "Structure determines meaning\nWhat does unlockable mean?\n\n\nsomething that could not be locked;\nsomething that could be unlocked.\n\n\nHow does the same string give multiple meanings?"
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "Introduction to the science of language",
+    "section": "Summary",
+    "text": "Summary\n\nto describe the structure of an object, we look for regularities\n\napplied to the structure of natural-language objects, this entails looking for grammatical regularities\n\nto establish the relationships between the parts of a whole, these parts must be found and categorised\n\nevery natural-language speaker is capable of distinguishing between sequences of symbols/sounds that are a sentence in that language, and those that are not."
+  },
+  {
+    "objectID": "index.html#language-around-the-globe",
+    "href": "index.html#language-around-the-globe",
+    "title": "Introduction to the science of language",
+    "section": "Language around the globe",
+    "text": "Language around the globe\n\naround 7,000 languages\nlanguages &gt; language groups &gt; language families\n\ngenealogical principle\n\\(\\rightarrow\\) explains some similarities between languages but not others\n\norganisation of grammatical building blocks\n\ntypological principle\n\\(\\rightarrow\\) also explains some similarities between languages but not others"
+  },
+  {
+    "objectID": "index.html#section-6",
+    "href": "index.html#section-6",
+    "title": "Introduction to the science of language",
+    "section": "",
+    "text": "Languages and language families of the world"
+  },
+  {
+    "objectID": "index.html#genealogical-principle-at-work",
+    "href": "index.html#genealogical-principle-at-work",
+    "title": "Introduction to the science of language",
+    "section": "Genealogical principle at work",
+    "text": "Genealogical principle at work\nIt can explain certain things by common origin.\n\nGermanic verbsBut not the differences in conjugation\n\n\n\nUsage of -t-/-d- for past tense\n\nGerman: machen ‘make’ — (ich) machte ‘I made’\nDutch: maken ‘make’ — (ik) maakte ‘I made’\n…\n\n\n\n\n\nGerman heißen: ich heiße — du heißt — er heiß — wir heißen etc.\nDutch heten: ik heet — jij heet — hij heet — wij heten etc.\nNorwegian hete: jeg/du/… heter"
+  },
+  {
+    "objectID": "index.html#limits-of-morphological-variation",
+    "href": "index.html#limits-of-morphological-variation",
+    "title": "Introduction to the science of language",
+    "section": "Limits of morphological variation",
+    "text": "Limits of morphological variation\nTwo main parameters\n\ndegree of allomorphy and fusion\n\nhow clearly morphological information can be segmented\n\ndegree of synthesis\n\nhow many morphemes a run-of-the-mill word has"
   }
 ]
