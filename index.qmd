@@ -458,6 +458,39 @@ Similar to what we established for sentences in Week 1!
   * applied to the structure of natural-language objects, this entails looking for grammatical regularities
       * to establish the relationships between the parts of a whole, these parts must be **found** and **categorised**
   * every natural-language speaker is capable of distinguishing between sequences of symbols/sounds that are a sentence in that language, and those that are not.
+  
+# In-class activities
+
+## Task 1: Segmentation into morphemes ##
+
+Sometimes multiple answers are correct:
+
+  * *saltpetre* (monomorphemic) vs. *salt*+*petre*
+  * *democrat* (monomorphemic) vs. *demo*+*crat*
+
+## Task 3. Cebuano morphology ##
+
+::: {.panel-tabset}
+
+### Prefixation and infixation
+
+* if the stem begins with a vowel, prefix *in-*;
+  * *inglis* → ***in-*** + *inglis*
+* if the stem begins with a consonant, infix *-in-* after that consonant
+  * *sibwano* → *s-*  + ***-in-** -ibwano*
+  
+### Infixation only
+
+Assume all syllables have a C-onset:
+
+* ***si**bwano*: CV
+* **∅*****i**nglis*: CV(C)
+
+Infix *-in-* between onset and nucleus:
+
+* *s-ibwano*: *s-* + *-in-* *-ibwano*
+* ∅-*inglis*: ∅- + *-in-* *-inglis*
+:::
 
 # Morphological typology #
 
