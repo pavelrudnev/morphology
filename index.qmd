@@ -9,6 +9,8 @@ format:
   revealjs: 
     theme: [default, custom.scss]
     chalkboard: true
+    touch: true
+    responsive: true
 slide-level: 2
 bibliography: ../teaching.bib
 lang: en-GB
@@ -516,20 +518,74 @@ It can explain certain things by common origin.
 
 ::: {.panel-tabset}
 
-### Germanic verbs ###
+### Germanic past ###
 
   * Usage of *-t-/-d-* for past tense
       * German: *machen* ‘make’ — (ich) machte ‘I made’
       * Dutch: *maken* ‘make’ — (ik) maakte ‘I made’
       * …
 
-### But not the differences in conjugation ###
+### Germanic conjugation ###
 
   * German *heißen*: *ich heiße — du heißt — er heiß — wir heißen* etc.
   * Dutch *heten*: *ik heet — jij heet — hij heet — wij heten* etc.
   * Norwegian *hete*: *jeg/du/… heter*
 
 :::
+
+## Genealogical principle at work {.scrollable}
+
+:::: {.panel-tabset}
+
+### Romance future 
+
+Usage of infinitive + present-tense form of *have*
+
+* French: *chanter* ‘sing.[inf]{.smallcaps}’ + *ai/as/a* ‘I have/you have/he/she/it has’
+  * *je chanterai/tu chanteras/il chantera’*
+* Spanish: *cantar* ‘sing.[inf]{.smallcaps}’ + *(h)é/(h)as/(h)a’
+  * *(yo) cantaré/(tu) cantarás/(él) cantará*
+* Portuguese: *cantar* ‘sing.[inf]{.smallcaps}’ + *(h)ei/(h)ás/(h)á’
+  * *(eu) cantarei/(tu) cantarás/(ele) cantará*
+
+### Romance conjugation
+
+::: {.panel-tabset}
+
+#### French 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+| Personne | Forme | API |
+|:---------|:------|:----|
+| je       | chante | /ʃɑ̃t/ |
+| tu       | chantes | /ʃɑ̃t/ |
+| il/elle/on | chante | /ʃɑ̃t/ |
+:::
+
+::: {.column width="50%"}
+
+| Personne | Forme | API |
+|:---------|:------|:----|
+| nous     | chantons | /ʃɑ̃.tɔ̃/ |
+| vous     | chantez | /ʃɑ̃.te/ |
+| ils/elles | chantent | /ʃɑ̃t/ |
+:::
+
+::::
+
+
+
+
+#### Italian
+
+#### Portuguese
+
+:::
+
+::::
 
 ## Limits of morphological variation ##
 

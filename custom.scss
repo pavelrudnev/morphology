@@ -3,3 +3,19 @@
 
 $font-family-sans-serif: "Roboto", sans-serif;
 $presentation-font-size-root: 40px;
+
+body {
+  font-variant-ligatures: common-ligatures;
+}
+
+/* Smaller font for all tables */
+.reveal table {
+  font-size: 0.7em;
+}
+
+/* Tight padding and no wrapping inside cells */
+.reveal table th,
+.reveal table td {
+  padding: 3px 8px;
+  white-space: nowrap;
+}

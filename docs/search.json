@@ -326,7 +326,7 @@
     "href": "index.html#genealogical-principle-at-work",
     "title": "Introduction to the science of language",
     "section": "Genealogical principle at work",
-    "text": "Genealogical principle at work\nIt can explain certain things by common origin.\n\nGermanic verbsBut not the differences in conjugation\n\n\n\nUsage of -t-/-d- for past tense\n\nGerman: machen ‘make’ — (ich) machte ‘I made’\nDutch: maken ‘make’ — (ik) maakte ‘I made’\n…\n\n\n\n\n\nGerman heißen: ich heiße — du heißt — er heiß — wir heißen etc.\nDutch heten: ik heet — jij heet — hij heet — wij heten etc.\nNorwegian hete: jeg/du/… heter"
+    "text": "Genealogical principle at work\nIt can explain certain things by common origin.\n\nGermanic pastGermanic conjugation\n\n\n\nUsage of -t-/-d- for past tense\n\nGerman: machen ‘make’ — (ich) machte ‘I made’\nDutch: maken ‘make’ — (ik) maakte ‘I made’\n…\n\n\n\n\n\nGerman heißen: ich heiße — du heißt — er heiß — wir heißen etc.\nDutch heten: ik heet — jij heet — hij heet — wij heten etc.\nNorwegian hete: jeg/du/… heter"
   },
   {
     "objectID": "index.html#limits-of-morphological-variation",
@@ -355,5 +355,12 @@
     "title": "Introduction to the science of language",
     "section": "Task 3. Cebuano morphology",
     "text": "Task 3. Cebuano morphology\n\nPrefixation and infixationInfixation only\n\n\n\nif the stem begins with a vowel, prefix in-;\n\ninglis → in- + inglis\n\nif the stem begins with a consonant, infix -in- after that consonant\n\nsibwano → s- + -in- -ibwano\n\n\n\n\nAssume all syllables have a C-onset:\n\nsibwano: CV\n∅inglis: CV(C)\n\nInfix -in- between onset and nucleus:\n\ns-ibwano: s- + -in- -ibwano\n∅-inglis: ∅- + -in- -inglis"
+  },
+  {
+    "objectID": "index.html#genealogical-principle-at-work-1",
+    "href": "index.html#genealogical-principle-at-work-1",
+    "title": "Introduction to the science of language",
+    "section": "Genealogical principle at work",
+    "text": "Genealogical principle at work\n\nRomance futureRomance conjugation\n\n\nUsage of infinitive + present-tense form of have\n\nFrench: chanter ‘sing.inf’ + ai/as/a ‘I have/you have/he/she/it has’\n\nje chanterai/tu chanteras/il chantera’\n\nSpanish: cantar ‘sing.inf’ + *(h)é/(h)as/(h)a’\n\n(yo) cantaré/(tu) cantarás/(él) cantará\n\nPortuguese: cantar ‘sing.inf’ + *(h)ei/(h)ás/(h)á’\n\n(eu) cantarei/(tu) cantarás/(ele) cantará\n\n\n\n\n\nFrenchItalianPortuguese\n\n\n\n\n\n\n\nPersonne\nForme\nAPI\n\n\n\n\nje\nchante\n/ʃɑ̃t/\n\n\ntu\nchantes\n/ʃɑ̃t/\n\n\nil/elle/on\nchante\n/ʃɑ̃t/\n\n\n\n\n\n\n\nPersonne\nForme\nAPI\n\n\n\n\nnous\nchantons\n/ʃɑ̃.tɔ̃/\n\n\nvous\nchantez\n/ʃɑ̃.te/\n\n\nils/elles\nchantent\n/ʃɑ̃t/"
   }
 ]
