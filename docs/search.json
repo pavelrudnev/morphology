@@ -207,7 +207,7 @@
     "href": "index.html#references",
     "title": "Introduction to the science of language",
     "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\nLudlow, Peter. 2011. The Philosophy of Generative Linguistics. Oxford University Press."
+    "text": "References\n\n\n\n\n\n\n\n\nFromkin, Victoria, Robert Rodman, and Nina Hyams. 2013. An Introduction to Language. 10th ed. Wadsworth Cengage Learning.\n\n\nLudlow, Peter. 2011. The Philosophy of Generative Linguistics. Oxford University Press."
   },
   {
     "objectID": "index.html#open-class-expressions",
@@ -354,13 +354,139 @@
     "href": "index.html#task-3.-cebuano-morphology",
     "title": "Introduction to the science of language",
     "section": "Task 3. Cebuano morphology",
-    "text": "Task 3. Cebuano morphology\n\nPrefixation and infixationInfixation only\n\n\n\nif the stem begins with a vowel, prefix in-;\n\ninglis → in- + inglis\n\nif the stem begins with a consonant, infix -in- after that consonant\n\nsibwano → s- + -in- -ibwano\n\n\n\n\nAssume all syllables have a C-onset:\n\nsibwano: CV\n∅inglis: CV(C)\n\nInfix -in- between onset and nucleus:\n\ns-ibwano: s- + -in- -ibwano\n∅-inglis: ∅- + -in- -inglis"
+    "text": "Task 3. Cebuano morphology\n\nPrefixation and infixationInfixation only\n\n\n\nif the stem begins with a vowel, prefix in-;\n\ninglis → in- + inglis\n\nif the stem begins with a consonant, infix -in- after that consonant\n\nsibwano → s- + -in- -ibwano\n\n\n\n\nAssume all syllables have a C-onset:\n\nsibwano: CV\n∅inglis: CV(C)\n\nInfix -in- between onset and nucleus:\n\ns-ibwano: s- + -in- -ibwano\n∅-inglis: ∅- + -in- -inglis\n\n\n\n\n(from Fromkin, Rodman, and Hyams 2013)"
   },
   {
     "objectID": "index.html#genealogical-principle-at-work-1",
     "href": "index.html#genealogical-principle-at-work-1",
     "title": "Introduction to the science of language",
     "section": "Genealogical principle at work",
-    "text": "Genealogical principle at work\n\nRomance futureRomance conjugation\n\n\nUsage of infinitive + present-tense form of have\n\nFrench: chanter ‘sing.inf’ + ai/as/a ‘I have/you have/he/she/it has’\n\nje chanterai/tu chanteras/il chantera’\n\nSpanish: cantar ‘sing.inf’ + *(h)é/(h)as/(h)a’\n\n(yo) cantaré/(tu) cantarás/(él) cantará\n\nPortuguese: cantar ‘sing.inf’ + *(h)ei/(h)ás/(h)á’\n\n(eu) cantarei/(tu) cantarás/(ele) cantará\n\n\n\n\n\nFrenchItalianPortuguese\n\n\n\n\n\n\n\nPersonne\nForme\nAPI\n\n\n\n\nje\nchante\n/ʃɑ̃t/\n\n\ntu\nchantes\n/ʃɑ̃t/\n\n\nil/elle/on\nchante\n/ʃɑ̃t/\n\n\n\n\n\n\n\nPersonne\nForme\nAPI\n\n\n\n\nnous\nchantons\n/ʃɑ̃.tɔ̃/\n\n\nvous\nchantez\n/ʃɑ̃.te/\n\n\nils/elles\nchantent\n/ʃɑ̃t/"
+    "text": "Genealogical principle at work\n\nRomance futureRomance conjugation\n\n\nUsage of infinitive + present-tense form of have\n\n\n\n\n\n\n\n\n\n\nLanguage\nInfinitive\n+ \"have\"\nFuture form\n\n\n\n\nFrench\nchanter\n\n+ ai (1sg)\n\n\n+ as (2sg)\n\n\n+ a (3sg)\n\n\nchanterai\n\n\nchanteras\n\n\nchantera\n\n\n\nSpanish\ncantar\n\n+ he (1sg)\n\n\n+ has (2sg)\n\n\n+ ha (3sg)\n\n\ncantaré\n\n\ncantarás\n\n\ncantará\n\n\n\nPortuguese\ncantar\n\n+ hei (1sg)\n\n\n+ hás (2sg)\n\n\n+ há (3sg)\n\n\ncantarei\n\n\ncantarás\n\n\ncantará\n\n\n\n\nThis has a historical explanation.\n\n\n\n\nFrenchItalianPortuguese\n\n\n\n\n\n\n\nPersonne\nForme\nAPI\n\n\n\n\nje\nchante\n/ʃɑ̃t/\n\n\ntu\nchantes\n/ʃɑ̃t/\n\n\nil/elle/on\nchante\n/ʃɑ̃t/\n\n\n\n\n\n\n\nPersonne\nForme\nAPI\n\n\n\n\nnous\nchantons\n/ʃɑ̃.tɔ̃/\n\n\nvous\nchantez\n/ʃɑ̃.te/\n\n\nils/elles\nchantent\n/ʃɑ̃t/\n\n\n\n\n\n\n\n\n\n\n\nPersona\nForma\n\n\n\n\nio\ncanto\n\n\ntu\ncanti\n\n\nlui/lei/Lei\ncanta\n\n\n\n\n\n\n\nPersona\nForma\n\n\n\n\nnoi\ncantiamo\n\n\nvoi\ncantate\n\n\nloro\ncantano\n\n\n\n\n\n\n\n\n\n\n\nPessoa\nForma\n\n\n\n\neu\ncanto\n\n\ntu\ncantas\n\n\nele/ela/você\ncanta\n\n\n\n\n\n\n\nPessoa\nForma\n\n\n\n\nnós\ncantamos\n\n\nvós\ncantais\n\n\neles/elas/vocês\ncantam\n\n\n\n\n\n\nThe differences lie in pronoun usage:\n\nEP: tu cantas (standard informal 2sg); vós archaic.\nBP: você canta (dominant 2sg); a gente canta (colloquial 1pl); vocês cantam (2pl)."
+  },
+  {
+    "objectID": "index.html#future-indicative-the-periphrastic-origin",
+    "href": "index.html#future-indicative-the-periphrastic-origin",
+    "title": "Introduction to the science of language",
+    "section": "Future Indicative — The Periphrastic Origin",
+    "text": "Future Indicative — The Periphrastic Origin\n\n\n\n\n\n\n\n\n\nLanguage\nInfinitive\n+ \"have\"\nFuture form\n\n\n\n\nFrench\nchanter\n\n+ ai (1sg)\n\n\n+ as (2sg)\n\n\n+ a (3sg)\n\n\nchanterai\n\n\nchanteras\n\n\nchantera\n\n\n\nSpanish\ncantar\n\n+ he (1sg)\n\n\n+ has (2sg)\n\n\n+ ha (3sg)\n\n\ncantaré\n\n\ncantarás\n\n\ncantará\n\n\n\nPortuguese\ncantar\n\n+ hei (1sg)\n\n\n+ hás (2sg)\n\n\n+ há (3sg)\n\n\ncantarei\n\n\ncantarás\n\n\ncantará"
+  },
+  {
+    "objectID": "index.html#ideal-case",
+    "href": "index.html#ideal-case",
+    "title": "Introduction to the science of language",
+    "section": "Ideal case?",
+    "text": "Ideal case?\nvery clear boundaries between individual morphemes"
+  },
+  {
+    "objectID": "index.html#allomorphy",
+    "href": "index.html#allomorphy",
+    "title": "Introduction to the science of language",
+    "section": "Allomorphy",
+    "text": "Allomorphy\nvariable realisation of a morpheme.\n\ncup vs. cups (/kʌp/ vs. /kʌps/)\nneck vs. necks\nset vs. sets\n\nbut mug vs. mugs (/mʌɡ/ vs. /mʌɡz/)\nbed vs. beds (/bɛd/ vs. /bɛdz/)\nsketch vs. sketches (/skɛʧ/ vs. /ˈskɛʧɪz/)"
+  },
+  {
+    "objectID": "index.html#fusion",
+    "href": "index.html#fusion",
+    "title": "Introduction to the science of language",
+    "section": "Fusion",
+    "text": "Fusion\nsimultaneous realisation of multiple morphemes with unclear boundaries.\n\nчесать vs. чешу vs. чешет\n\nwhere’s the root? what’s the morpheme for 1 or 2 person? what’s the morpheme for number? what’s the morpheme for present tense?\n\n\n\nDegree of fusion can vary from low (so-called agglutinative or agglutinating languages: Turkish, Japanese etc.) to high (so-called fusional languages: Russian, French etc.)"
+  },
+  {
+    "objectID": "index.html#low-degree-of-fusion-turkish",
+    "href": "index.html#low-degree-of-fusion-turkish",
+    "title": "Introduction to the science of language",
+    "section": "Low degree of fusion: Turkish",
+    "text": "Low degree of fusion: Turkish\nEvery morpheme is clearly separable from every other morpheme\n\nTurkish noun: oda ‘room’ — oda-da ‘in the room’; oda-lar ‘rooms’ — oda-lar-da ‘in the rooms’\nTurkish verb: sev- ‘like’ — sev-di-m ‘like-pst-1sg’; sev- + -me- + -di- + -m ‘like-neg-pst-1sg’"
+  },
+  {
+    "objectID": "index.html#declension-of-otaq-room",
+    "href": "index.html#declension-of-otaq-room",
+    "title": "Azərbaycan dili: otaq (room)",
+    "section": "Declension of otaq (room)",
+    "text": "Declension of otaq (room)\n\n\n\nRoot\nPlural (in brackets)\nCase Morpheme\nDeclined Form\n\n\n\n\notaq\n(otaqlar)\n—\notaq\n\n\notaq\n(otaqlar)\n-ın / -in / -un / -ün\notağın\n\n\notaq\n(otaqlar)\n-a / -ə\notağa\n\n\notaq\n(otaqlar)\n-ı / -i / -u / -ü\notağı\n\n\notaq\n(otaqlar)\n-da / -də\notaqda\n\n\notaq\n(otaqlar)\n-dan / -dən\notaqdan"
+  },
+  {
+    "objectID": "index.html#possessive-forms-of-otaq",
+    "href": "index.html#possessive-forms-of-otaq",
+    "title": "Azərbaycan dili: otaq (room)",
+    "section": "Possessive Forms of otaq",
+    "text": "Possessive Forms of otaq\n\n\n\nPerson\nPossessive Morpheme\nSingular\nPlural\n\n\n\n\n1sg\n-ım / -im / -um / -üm\notağım\notaqlarım\n\n\n2sg\n-ın / -in / -un / -ün\notağın\notaqların\n\n\n3sg\n-ı / -i / -u / -ü\notağı\notaqları\n\n\n1pl\n-ımız / -imiz / -umuz / -ümüz\notağımız\notaqlarımız\n\n\n2pl\n-ınız / -iniz / -unuz / -ünüz\notağınız\notaqlarınız\n\n\n3pl\n-ı / -i / -u / -ü (+ lar / lər)\notağı\notaqları"
+  },
+  {
+    "objectID": "index.html#declension-of-ev-house",
+    "href": "index.html#declension-of-ev-house",
+    "title": "Introduction to the science of language",
+    "section": "Declension of ev (house)",
+    "text": "Declension of ev (house)\n\n\n\nRoot\n(pl)\nCase Marker\n\n\n\n\nev\n(-lər)\n—\n\n\nev\n(-lər)\n-in\n\n\nev\n(-lər)\n-ə\n\n\nev\n(-lər)\n-i\n\n\nev\n(-lər)\n-də\n\n\nev\n(-lər)\n-dən"
+  },
+  {
+    "objectID": "index.html#declension-of-ev-house-in-azeri",
+    "href": "index.html#declension-of-ev-house-in-azeri",
+    "title": "Introduction to the science of language",
+    "section": "Declension of ev ‘house’ in Azeri",
+    "text": "Declension of ev ‘house’ in Azeri\n\n\n\nCase\nRoot\n(pl)\nCase Marker\n\n\n\n\nnom\nev\n(-lər)\n—\n\n\ngen\nev\n(-lər)\n-in\n\n\ndat\nev\n(-lər)\n-ə\n\n\nacc\nev\n(-lər)\n-i\n\n\nloc\nev\n(-lər)\n-də\n\n\nabl\nev\n(-lər)\n-dən\n\n\n\nIf we know that, for instance, -(i)miz- is the 1pl suffix, we should have no difficulty figuring out the meaning of evlərimizdən, or forming any nominal case form."
+  },
+  {
+    "objectID": "index.html#postmodernism",
+    "href": "index.html#postmodernism",
+    "title": "Introduction to the science of language",
+    "section": "‘postmodernism’",
+    "text": "‘postmodernism’\nTwo initially plausible candidate structures:\n\n \n\nHow do we decide which one is the more plausible one?"
+  },
+  {
+    "objectID": "index.html#homework-postmodernism",
+    "href": "index.html#homework-postmodernism",
+    "title": "Introduction to the science of language",
+    "section": "Homework: ‘postmodernism’",
+    "text": "Homework: ‘postmodernism’\nTwo initially plausible candidate structures:\n\n \n\nHow do we decide which one is the more plausible one?\n\npost- can attach to N or A: postlude, postscriptum or postnatal, postoperative etc.\ncompositionality: not ‘coming after modernism’ but ‘something associated with being postmodern’."
+  },
+  {
+    "objectID": "index.html#high-degree-of-fusion",
+    "href": "index.html#high-degree-of-fusion",
+    "title": "Introduction to the science of language",
+    "section": "High degree of fusion",
+    "text": "High degree of fusion\n\nmultiple meanings per morpheme at a time\ndifficult segmentation due to blurred morpheme boundaries\nlots of irregularity"
+  },
+  {
+    "objectID": "index.html#degree-of-synthesis",
+    "href": "index.html#degree-of-synthesis",
+    "title": "Introduction to the science of language",
+    "section": "Degree of synthesis",
+    "text": "Degree of synthesis\nHow many morphemes per word, on average?\n\n\none\nmany\nanything in between"
+  },
+  {
+    "objectID": "index.html#very-few-morphemes-per-word-isolating",
+    "href": "index.html#very-few-morphemes-per-word-isolating",
+    "title": "Introduction to the science of language",
+    "section": "(Very) few morphemes per word: Isolating",
+    "text": "(Very) few morphemes per word: Isolating\n\nChinese, from allthingslinguistic.com"
+  },
+  {
+    "objectID": "index.html#lots-of-morphemes-polysynthetic",
+    "href": "index.html#lots-of-morphemes-polysynthetic",
+    "title": "Introduction to the science of language",
+    "section": "Lots of morphemes: Polysynthetic",
+    "text": "Lots of morphemes: Polysynthetic\n\nUbykh, from allthingslinguistic.com"
+  },
+  {
+    "objectID": "index.html#multiple-meanings-per-morpheme-at-a-time",
+    "href": "index.html#multiple-meanings-per-morpheme-at-a-time",
+    "title": "Introduction to the science of language",
+    "section": "Multiple meanings per morpheme at a time",
+    "text": "Multiple meanings per morpheme at a time\n\n\n\n\n\nSingular\n\n\nPlural\n\n\n\n\n\n\n1sg  хожу\n\n\n1pl  ходим\n\n\n\n\n2sg  ходишь\n\n\n2pl  ходите\n\n\n\n\n3sg  ходит\n\n\n3pl  ходят"
+  },
+  {
+    "objectID": "index.html#segmentation-difficulties",
+    "href": "index.html#segmentation-difficulties",
+    "title": "Introduction to the science of language",
+    "section": "Segmentation difficulties",
+    "text": "Segmentation difficulties\n\n\n\n\n\nArticle\n\n\nà + article\n\n\nResult\n\n\nFusion?\n\n\n\n\n\n\nle (masc. sg.)\n\n\nà + le\n\n\nau\n\n\nyes (obligatory)\n\n\n\n\nla (fem. sg.)\n\n\nà + la\n\n\nà la\n\n\nno\n\n\n\n\nl’ (sg. before vowel)\n\n\nà + l’\n\n\nà l’\n\n\nno\n\n\n\n\nles (pl.)\n\n\nà + les\n\n\naux\n\n\nyes (obligatory)\n\n\n\n\nFrench: fusion of à + definite article"
+  },
+  {
+    "objectID": "index.html#multiple-meanings-per-morpheme",
+    "href": "index.html#multiple-meanings-per-morpheme",
+    "title": "Introduction to the science of language",
+    "section": "Multiple meanings per morpheme",
+    "text": "Multiple meanings per morpheme\n\nRussian present tensePortuguese present tense\n\n\n\n\n\n\n\nSingular\n\n\nPlural\n\n\n\n\n\n\n1sg  хожу́\n\n\n1pl  ходим\n\n\n\n\n2sg  ходишь\n\n\n2pl  ходите\n\n\n\n\n3sg  ходит\n\n\n3pl  ходят\n\n\n\n\n\n\n\n\n\n\n\nPerson\n\n\nfalar “to speak” (-ar)\n\n\ncomer “to eat” (-er)\n\n\n\n\nIndicativo\n\n\nSubjuntivo\n\n\nIndicativo\n\n\nSubjuntivo\n\n\n\n\n\n\neu\n\n\nfalo\n\n\nfale\n\n\ncomo\n\n\ncoma\n\n\n\n\ntu\n\n\nfalas\n\n\nfales\n\n\ncomes\n\n\ncomas\n\n\n\n\nele / ela / você\n\n\nfala\n\n\nfale\n\n\ncome\n\n\ncoma\n\n\n\n\nnós\n\n\nfalamos\n\n\nfalemos\n\n\ncomemos\n\n\ncomamos\n\n\n\n\nvós\n\n\nfalais\n\n\nfaleis\n\n\ncomeis\n\n\ncomais\n\n\n\n\neles / elas / vocês\n\n\nfalam\n\n\nfalem\n\n\ncomem\n\n\ncomam"
   }
 ]

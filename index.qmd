@@ -17,6 +17,8 @@ lang: en-GB
 rights: CC-by
 ---
 
+
+
 ## Previously ##
 
 Transmitting and recording language
@@ -494,6 +496,24 @@ Infix *-in-* between onset and nucleus:
 * ∅-*inglis*: ∅- + *-in-* *-inglis*
 :::
 
+[from @Fromkin:2013]
+
+## Homework: ‘postmodernism’
+
+Two initially plausible candidate structures:
+
+::: {style="text-align: center;"}
+![](postmodernism.svg){ width=25% } ![](postmodernism2.svg){ width=25% }
+:::
+
+How do we decide which one is the more plausible one?
+
+::: notes
+*post-* can attach to N or A: *postlude*, *postscriptum* or *postnatal*, *postoperative* etc.
+
+**compositionality:** not ‘coming after modernism’ but ‘something associated with being *postmodern*’.
+:::
+
 # Morphological typology #
 
 ## Language around the globe ##
@@ -512,7 +532,7 @@ Infix *-in-* between onset and nucleus:
 ![Languages and language families of the world](https://upload.wikimedia.org/wikipedia/commons/7/70/Languages_world_map.svg)
 :::
 
-## Genealogical principle at work ##
+## Genealogical principle at work {.smaller}
 
 It can explain certain things by common origin.
 
@@ -533,7 +553,7 @@ It can explain certain things by common origin.
 
 :::
 
-## Genealogical principle at work {.scrollable}
+## Genealogical principle at work {.smaller}
 
 :::: {.panel-tabset}
 
@@ -541,12 +561,79 @@ It can explain certain things by common origin.
 
 Usage of infinitive + present-tense form of *have*
 
-* French: *chanter* ‘sing.[inf]{.smallcaps}’ + *ai/as/a* ‘I have/you have/he/she/it has’
-  * *je chanterai/tu chanteras/il chantera’*
-* Spanish: *cantar* ‘sing.[inf]{.smallcaps}’ + *(h)é/(h)as/(h)a’
-  * *(yo) cantaré/(tu) cantarás/(él) cantará*
-* Portuguese: *cantar* ‘sing.[inf]{.smallcaps}’ + *(h)ei/(h)ás/(h)á’
-  * *(eu) cantarei/(tu) cantarás/(ele) cantará*
+<!--
+| Person | French (*chanter*) | Spanish (*cantar*) | Portuguese (*cantar*) |
+|:-------|:-------------------|:-------------------|:----------------------|
+| **1sg** | je chanter**ai** | cantar**é** | cantar**ei** |
+| **2sg** | tu chanter**as** | cantar**ás** | cantar**ás** |
+| **3sg** | il/elle chanter**a** | cantar**á** | cantar**á** |
+-->
+
+```{=html}
+<table class="periphrastic">
+  <thead>
+    <tr>
+      <th>Language</th>
+      <th>Infinitive</th>
+      <th>+ "have"</th>
+      <th>Future form</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>French</td>
+      <td class="inf">chanter</td>
+      <td class="aux">
+        <div>+ <strong>ai</strong> <span class="gloss">(1sg)</span></div>
+        <div>+ <strong>as</strong> <span class="gloss">(2sg)</span></div>
+        <div>+ <strong>a</strong> <span class="gloss">(3sg)</span></div>
+      </td>
+      <td class="fut">
+        <div>chanter<strong>ai</strong></div>
+        <div>chanter<strong>as</strong></div>
+        <div>chanter<strong>a</strong></div>
+      </td>
+    </tr>
+    <tr>
+      <td>Spanish</td>
+      <td class="inf">cantar</td>
+      <td class="aux">
+        <div>+ <strong>he</strong> <span class="gloss">(1sg)</span></div>
+        <div>+ <strong>has</strong> <span class="gloss">(2sg)</span></div>
+        <div>+ <strong>ha</strong> <span class="gloss">(3sg)</span></div>
+      </td>
+      <td class="fut">
+        <div>cantar<strong>é</strong></div>
+        <div>cantar<strong>ás</strong></div>
+        <div>cantar<strong>á</strong></div>
+      </td>
+    </tr>
+    <tr>
+      <td>Portuguese</td>
+      <td class="inf">cantar</td>
+      <td class="aux">
+        <div>+ <strong>hei</strong> <span class="gloss">(1sg)</span></div>
+        <div>+ <strong>hás</strong> <span class="gloss">(2sg)</span></div>
+        <div>+ <strong>há</strong> <span class="gloss">(3sg)</span></div>
+      </td>
+      <td class="fut">
+        <div>cantar<strong>ei</strong></div>
+        <div>cantar<strong>ás</strong></div>
+        <div>cantar<strong>á</strong></div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+```
+
+This has a historical explanation.
+
+<!--| Person | French (*chanter*) | Spanish (*cantar*) | Portuguese (*cantar*) | French *avoir* | Spanish *haber* | Portuguese *haver* |
+|:-------|:-------------------|:-------------------|:----------------------|:---------------|:----------------|:-------------------|
+| **1sg** | je chanter**ai** | cantar**é** | cantar**ei** | j'**ai** | h**e** | h**ei** |
+| **2sg** | tu chanter**as** | cantar**ás** | cantar**ás** | tu **as** | h**as** | h**ás** |
+| **3sg** | il/elle chanter**a** | cantar**á** | cantar**á** | il/elle **a** | h**a** | h**á** |
+-->
 
 ### Romance conjugation
 
@@ -581,7 +668,54 @@ Usage of infinitive + present-tense form of *have*
 
 #### Italian
 
+:::: {.columns}
+
+::: {.column width="50%"}
+| Persona | Forma |
+|:--------|:------|
+| io      | canto |
+| tu      | canti |
+| lui/lei/Lei | canta |
+:::
+
+::: {.column width="50%"}
+| Persona | Forma |
+|:--------|:------|
+| noi     | cantiamo |
+| voi     | cantate |
+| loro    | cantano |
+:::
+
+::::
+
 #### Portuguese
+
+:::: {.columns}
+
+::: {.column width="50%"}
+| Pessoa | Forma |
+|:--------|:------|
+| eu      | canto |
+| tu      | cantas |
+| ele/ela/você | canta |
+:::
+
+::: {.column width="50%"}
+| Pessoa | Forma |
+|:--------|:------|
+| nós     | cantamos |
+| [vós]{.ep} | [cantais]{.ep} |
+| eles/elas/vocês | cantam |
+:::
+
+::::
+
+::: notes
+
+* The differences lie in pronoun usage:
+  * EP: *tu cantas* (standard informal 2sg); *vós* archaic.
+  * BP: *você canta* (dominant 2sg); *a gente canta* (colloquial 1pl); *vocês cantam* (2pl).
+:::
 
 :::
 
@@ -595,6 +729,246 @@ Two main parameters
       * how clearly morphological information can be segmented
   * degree of synthesis
       * how many morphemes a run-of-the-mill word has
+
+## Ideal case? ##
+
+very clear boundaries between individual morphemes
+
+## Allomorphy
+
+variable realisation of a morpheme.
+
+* *cup* vs. *cup**s*** (/kʌp/ vs. /kʌps/)
+* *neck* vs. *neck**s***
+* *set* vs. *set**s***
+    * but *mug* vs. *mug**s*** (/mʌɡ/ vs. /mʌɡz/)
+    * *bed* vs. *bed**s*** (/bɛd/ vs. /bɛdz/)
+    * *sketch* vs. *sketch**es*** (/skɛʧ/ vs. /ˈskɛʧɪz/)
+    
+## Fusion ##
+	
+simultaneous realisation of multiple morphemes with unclear boundaries.
+
+  * *чесать* vs. *чешу* *vs.* *чешет*
+      * where's the root? what's the morpheme for 1 or 2 person? what's the morpheme for number? what's the morpheme for present tense?
+
+. . . 
+
+Degree of fusion can vary from *low* (so-called **agglutinative** or **agglutinating** languages: Turkish, Japanese etc.) to *high* (so-called **fusional** languages: Russian, French etc.)
+
+## Low degree of fusion: Turkish ##
+
+Every morpheme is clearly separable from every other morpheme
+
+  
+  * Turkish noun: *oda* ‘room’ — *oda-da* ‘in the room’; *oda-lar* ‘rooms’ — *oda-lar-da* ‘in the rooms’
+  * Turkish verb: *sev-* ‘like’ — *sev-di-m* ‘like-[pst-1sg]{.smallcaps}’; *sev-* + *-me-* + *-di-* + *-m* ‘like-[neg-pst-1sg]{.smallcaps}’
+  
+
+
+## Declension of *ev* ‘house’ in Azeri
+
+| Case | Root | ([pl]{.smallcaps}) | Case Marker |
+|:-----|:-----|:-------------------|:------------|
+| [nom]{.smallcaps} | ev | (-lər) | — |
+| [gen]{.smallcaps} | ev | (-lər) | -in |
+| [dat]{.smallcaps} | ev | (-lər) | -ə |
+| [acc]{.smallcaps} | ev | (-lər) | -i |
+| [loc]{.smallcaps} | ev | (-lər) | -də |
+| [abl]{.smallcaps} | ev | (-lər) | -dən |
+
+If we know that, for instance, *-(i)miz-* is the [1pl]{.smallcaps} suffix, we should have no difficulty figuring out the meaning of *evlərimizdən*, or forming any nominal case form.
+
+## High degree of fusion
+
+* multiple meanings per morpheme at a time
+* difficult segmentation due to blurred morpheme boundaries
+* lots of irregularity
+
+## Multiple meanings per morpheme 
+
+::: {.panel-tabset}
+
+### Russian present tense
+ 
+<style>
+  table.conj { border-collapse: collapse; font-family: sans-serif; font-size: 0.7em; }
+  table.conj th, table.conj td { border: 1px solid #999; padding: 6px 18px; text-align: center; }
+  table.conj th { background: #f0f0f0; }
+  .stem { color: #222; }
+  .end  { color: #1a56db; font-weight: bold; }   /* fusional endings */
+  .mut  { color: #c81e1e; font-weight: bold; }   /* consonant mutation д→ж */
+  .stress { text-decoration: underline; }        /* stressed vowel */
+</style>
+
+<table class="conj">
+  <thead>
+    <tr>
+      <th>Singular</th>
+      <th>Plural</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1sg&nbsp;&nbsp;<span class="stem">хо</span><span class="mut">ж</span><span class="end">у́</span></td>
+      <td>1pl&nbsp;&nbsp;<span class="stem">ход</span><span class="end">им</span></td>
+    </tr>
+    <tr>
+      <td>2sg&nbsp;&nbsp;<span class="stem">ход</span><span class="end">ишь</span></td>
+      <td>2pl&nbsp;&nbsp;<span class="stem">ход</span><span class="end">ите</span></td>
+    </tr>
+    <tr>
+      <td>3sg&nbsp;&nbsp;<span class="stem">ход</span><span class="end">ит</span></td>
+      <td>3pl&nbsp;&nbsp;<span class="stem">ход</span><span class="end">ят</span></td>
+    </tr>
+  </tbody>
+</table>
+
+### Portuguese present tense
+
+<style>
+  table.pt { border-collapse: collapse; font-family: sans-serif; font-size: 0.7em; }
+  table.pt th, table.pt td { border: 1px solid #999; padding: 6px 12px; text-align: center; }
+  table.pt th { background: #f0f0f0; }
+  table.pt caption { caption-side: top; font-weight: bold; padding-bottom: 8px; }
+  .stem    { color: #222; }
+  .end     { color: #1a56db; font-weight: bold; }   /* fusional person/number endings */
+  .them    { color: #0a7d3b; font-weight: bold; }   /* thematic vowel */
+  .mut     { color: #c81e1e; font-weight: bold; }   /* stem/orthographic change (1sg) */
+</style>
+
+<table class="pt">
+  <thead>
+    <tr>
+      <th rowspan="2">Person</th>
+      <th colspan="2">falar “to speak” (-ar)</th>
+      <th colspan="2">comer “to eat” (-er)</th>
+    </tr>
+    <tr>
+      <th>Indicativo</th>
+      <th>Subjuntivo</th>
+      <th>Indicativo</th>
+      <th>Subjuntivo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>eu</td>
+      <td><span class="stem">fal</span><span class="end">o</span></td>
+      <td><span class="stem">fal</span><span class="them">e</span></td>
+      <td><span class="stem">com</span><span class="end">o</span></td>
+      <td><span class="stem">com</span><span class="them">a</span></td>
+    </tr>
+    <tr>
+      <td>tu</td>
+      <td><span class="stem">fal</span><span class="them">a</span><span class="end">s</span></td>
+      <td><span class="stem">fal</span><span class="them">e</span><span class="end">s</span></td>
+      <td><span class="stem">com</span><span class="them">e</span><span class="end">s</span></td>
+      <td><span class="stem">com</span><span class="them">a</span><span class="end">s</span></td>
+    </tr>
+    <tr>
+      <td>ele / ela / você</td>
+      <td><span class="stem">fal</span><span class="them">a</span></td>
+      <td><span class="stem">fal</span><span class="them">e</span></td>
+      <td><span class="stem">com</span><span class="them">e</span></td>
+      <td><span class="stem">com</span><span class="them">a</span></td>
+    </tr>
+    <tr>
+      <td>nós</td>
+      <td><span class="stem">fal</span><span class="them">a</span><span class="end">mos</span></td>
+      <td><span class="stem">fal</span><span class="them">e</span><span class="end">mos</span></td>
+      <td><span class="stem">com</span><span class="them">e</span><span class="end">mos</span></td>
+      <td><span class="stem">com</span><span class="them">a</span><span class="end">mos</span></td>
+    </tr>
+    <tr>
+      <td>vós</td>
+      <td><span class="stem">fal</span><span class="them">a</span><span class="end">is</span></td>
+      <td><span class="stem">fal</span><span class="them">e</span><span class="end">is</span></td>
+      <td><span class="stem">com</span><span class="them">e</span><span class="end">is</span></td>
+      <td><span class="stem">com</span><span class="them">a</span><span class="end">is</span></td>
+    </tr>
+    <tr>
+      <td>eles / elas / vocês</td>
+      <td><span class="stem">fal</span><span class="them">a</span><span class="end">m</span></td>
+      <td><span class="stem">fal</span><span class="them">e</span><span class="end">m</span></td>
+      <td><span class="stem">com</span><span class="them">e</span><span class="end">m</span></td>
+      <td><span class="stem">com</span><span class="them">a</span><span class="end">m</span></td>
+    </tr>
+  </tbody>
+</table>
+
+:::
+
+## Segmentation difficulties
+
+<style>
+  table.fr { border-collapse: collapse; font-family: sans-serif; font-size: 0.7em; }
+  table.fr th, table.fr td { border: 1px solid #999; padding: 7px 18px; text-align: center; }
+  table.fr th { background: #f0f0f0; }
+  table.fr caption { caption-side: top; font-weight: bold; padding-bottom: 8px; }
+  .prep { color: #1a56db; font-weight: bold; }   /* preposition à */
+  .art  { color: #0a7d3b; font-weight: bold; }   /* definite article */
+  .fuse { color: #c81e1e; font-weight: bold; }   /* fused form */
+</style>
+
+<table class="fr">
+  <thead>
+    <tr>
+      <th>Article</th>
+      <th>à + article</th>
+      <th>Result</th>
+      <th>Fusion?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>le (masc. sg.)</td>
+      <td><span class="prep">à</span> + le</td>
+      <td><span class="fuse">au</span></td>
+      <td>yes (obligatory)</td>
+    </tr>
+    <tr>
+      <td>la (fem. sg.)</td>
+      <td><span class="prep">à</span> + la</td>
+      <td><span class="prep">à</span> la</td>
+      <td>no</td>
+    </tr>
+    <tr>
+      <td>l’ (sg. before vowel)</td>
+      <td><span class="prep">à</span> + l’</td>
+      <td><span class="prep">à</span> l’</td>
+      <td>no</td>
+    </tr>
+    <tr>
+      <td>les (pl.)</td>
+      <td><span class="prep">à</span> + <span class="art">les</span></td>
+      <td><span class="fuse">aux</span></td>
+      <td>yes (obligatory)</td>
+    </tr>
+  </tbody>
+  <caption>French: fusion of <em>à</em> + definite article</caption>
+</table>
+
+## Degree of synthesis 
+
+How many morphemes per word, on average?
+
+::: {.incremental}
+
+* one
+* many
+* anything in between
+
+:::
+
+
+## (Very) few morphemes per word: Isolating ##
+
+![Chinese, from [allthingslinguistic.com](allthingslinguistic.tumblr.com)](chinese-isolating.jpg){ width=50% }
+
+## Lots of morphemes: Polysynthetic ##
+
+![Ubykh, from [allthingslinguistic.com](allthingslinguistic.tumblr.com)](https://64.media.tumblr.com/f6ce0dc21e59399f78a40c4cf40929b6/tumblr_mn4boyZ1SP1rwewyjo4_540.gif){ width=40% }
 
 
 ## References
